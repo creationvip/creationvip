@@ -1,68 +1,88 @@
-<h1 align="center">⚡ DEVFOX AI ⚡</h1>
-
-<p align="center">
-  🚀 Full Stack Developer • AI Systems • SaaS Builder
-</p>
-
-<p align="center">
-  Creating futuristic platforms, automation systems and AI experiences.
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=AI+Engineer;Full+Stack+Developer;SaaS+Builder;Automation+Expert">
-</p>
-
----
-
-# 🧠 Tech Stack
-
 <div align="center">
 
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+# ⚡ DEVFOX SYSTEMS ⚡
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=API+Developer;FiveM+Systems;Full+Stack+Engineer;VIP+Panel+Creator;Automation+Expert;AI+Systems+Developer" />
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+---
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+### 🚀 Building Modern APIs, FiveM Systems & Futuristic Platforms
 
 </div>
 
 ---
 
-# 🔥 Main Projects
-
-🚀 NexaVeo AI  
-🛒 Vortex Store  
-⚽ Sports Analytics Platform  
-🤖 AI Automation Systems  
-
----
-
-# 📊 GitHub Stats
+# 💻 STACK
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=creationvip&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creationvip&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=nodejs,react,typescript,python,mongodb,mysql,docker,git,vscode" />
 
 </div>
 
 ---
 
-# 🌎 Connect With Me
+# ⚡ SPECIALTIES
 
-💻 GitHub Developer  
-🚀 AI Engineer  
-⚡ DevFox Labs  
+```yaml
+✔ API Development
+✔ FiveM Scripts
+✔ VIP Panels
+✔ SaaS Platforms
+✔ AI Systems
+✔ Automation
+✔ Dashboard Systems
+✔ Authentication Systems
+✔ Payment Integrations
+✔ Real Time Systems
+```
 
 ---
 
-<p align="center">
-  ⚡ Building the Future with AI ⚡
-</p>
+# 🚀 MAIN PROJECTS
+
+| PROJECT | DESCRIPTION |
+|---|---|
+| 🚀 NexaVeo AI | AI generation platform |
+| 🛒 Vortex Store | Marketplace & eCommerce |
+| ⚽ Sports Platform | Real-time sports analytics |
+| 🤖 DevFox APIs | Modern API ecosystem |
+| 🔥 FiveM Systems | VIP panels & server systems |
+
+---
+
+# 📊 GITHUB STATS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=creationvip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creationvip&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🌎 CONNECT
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)]()
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]()
+
+[![FiveM](https://img.shields.io/badge/FiveM-000?style=for-the-badge&logo=fivem)]()
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ DEVFOX LABS ⚡
+
+```txt
+Building futuristic systems, APIs and FiveM experiences.
+```
+
+</div>
